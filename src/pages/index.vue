@@ -396,7 +396,7 @@ const academicsEducations = [
   margin-right: 10px;
 }
 
-@media (max-width: $breakpoint-sm) {
+@media (max-width: $breakpoint-xs) {
   .skill-card {
     display: flex;
     justify-content: center;
