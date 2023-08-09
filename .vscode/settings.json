@@ -20,6 +20,7 @@
   },
   "[vue]": {
     "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "testing.automaticallyOpenPeekView": "never",
   "editor.suggest.filterGraceful": false,

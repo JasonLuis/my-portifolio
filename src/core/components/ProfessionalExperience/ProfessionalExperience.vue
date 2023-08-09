@@ -55,4 +55,23 @@ const props = defineProps<{
       font-size: 18px;
     }
 }
+
+@media (max-width: $breakpoint-sm) {
+
+  .q-card {
+    width: 260px;
+    height: 380px;
+    background-color: #382444;
+  }
+
+  .q-card__section {
+    &:deep(.text-h6) {
+      font-size: 18px;
+      line-height: 23px;
+    }
+    &:deep(span){
+      font-size: 12px;
+    }
+  }
+}
 </style>
