@@ -71,18 +71,22 @@ const getImage = (image: string) => {
 }
 
 @media (max-width: $breakpoint-sm) {
+
+  .q-card {
+    width: 320px;
+  }
   .q-card__section {
     &:deep(.text-h6) {
       font-size: 18px;
     }
     &:deep(span){
-      font-size: 12px;
+      font-size: 16px;
     }
   }
 
   .q-img {
-    width: 220px;
-    height: 180px;
+    width: 320px;
+    height: 270px;
 }
 }
 

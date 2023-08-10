@@ -402,14 +402,13 @@ const academicsEducations = [
     justify-content: center;
     flex-wrap: wrap;
     gap: 40px;
-    padding-left: 40px;
   }
 
   .skill-title,
   .project-title,
   .experience-title,
   .academic-title {
-    text-align: center;
+    text-align: justify;
     line-height: 25px;
     font-size: 25px;
     margin-top: 50px;
@@ -422,15 +421,16 @@ const academicsEducations = [
   }
 
   .my-card .title {
-    font-size: 23px;
-    line-height: 25px;
+    font-size: 36px;
+    line-height: 40px;
   }
 
   .my-card h1 {
     @extend %inconsolata;
     @extend %text-gradient;
     font-weight: 700;
-    font-size: 23px;
+    font-size: 32px;
+    line-height: 36px;
     filter: brightness(150%);
   }
 
@@ -438,8 +438,8 @@ const academicsEducations = [
     @extend %fira-sans;
     color: #DAD1E6;
     filter: contrast(14.24);
-    font-size: 12px;
-    line-height: 14px;
+    font-size: 16px;
+    line-height: 20px;
     filter: brightness(200%);
   }
 
@@ -449,18 +449,18 @@ const academicsEducations = [
   }
 
   .sub-title {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .skill-list ul li {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .footer .my-card h1 {
     line-height: 50px;
   }
   .contact li {
-    font-size: 12px;
+    font-size: 16px;
   }
 }
 </style>

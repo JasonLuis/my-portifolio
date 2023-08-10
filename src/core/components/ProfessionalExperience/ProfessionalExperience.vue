@@ -59,7 +59,7 @@ const props = defineProps<{
 @media (max-width: $breakpoint-sm) {
 
   .q-card {
-    width: 260px;
+    width: 320px;
     height: 380px;
     background-color: #382444;
   }
@@ -70,7 +70,7 @@ const props = defineProps<{
       line-height: 23px;
     }
     &:deep(span){
-      font-size: 12px;
+      font-size: 16px;
     }
   }
 }
