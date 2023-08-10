@@ -235,7 +235,7 @@ const academicsEducations = [
   {
     name: 'Técnico em Informática | SENAI',
     description:
-      'Com minha formação concluída em dezembro de 2016 como Técnico em Informática pela instituição SENAI Professor Vicente Amato, obtive uma sólida capacitação abrangendo áreas como programação Java e criação web através das linguagens HTML, CSS e PHP. Através dessa formação técnica, estabeleci uma base robusta que me permitiu compreender com profundidade as intricadas nuances da tecnologia e sua aplicabilidade no mundo real.'
+      'Com minha formação concluída em dezembro de 2016 como Técnico em Informática pela instituição SENAI Professor Vicente Amato, obtive uma sólida capacitação abrangendo áreas como programação Java e criação web através das linguagens HTML, CSS e PHP. Essa formação técnica me deu uma base sólida para entender bem a tecnologia e como ela funciona na prática.'
   }
 ]
 </script>
