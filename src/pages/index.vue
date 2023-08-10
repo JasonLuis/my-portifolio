@@ -230,12 +230,12 @@ const academicsEducations = [
   {
     name: 'Sistemas de Informação | FIAP',
     description:
-      'Formado em Sistemas de Informação pela FIAP em dezembro de 2021, minha jornada acadêmica se estendeu de fevereiro de 2018 a dezembro de 2021. Durante esse período, adquiri um sólido entendimento em sistemas, desenvolvimento de software e análise de dados, preparando-me para uma carreira dinâmica na área de tecnologia.'
+      'Graduado em Sistemas de Informação pela FIAP em dezembro de 2021, minha jornada acadêmica se estendeu de fevereiro de 2018 a dezembro de 2021. Durante esse período, adquiri um sólido entendimento em sistemas, desenvolvimento de software e análise de dados, preparando-me para uma carreira dinâmica na área de tecnologia.'
   },
   {
     name: 'Técnico em Informática | SENAI',
     description:
-      'Graduado como Técnico em Informática pela escola SENAI Professor Vicente Amato, adquiri sólidos conhecimentos em programação Java e desenvolvimento web com HTML, CSS e PHP. Minha formação técnica me proporcionou uma base sólida para compreender as complexidades da tecnologia e sua aplicação prática.'
+      'Com minha formação concluída em dezembro de 2016 como Técnico em Informática pela instituição SENAI Professor Vicente Amato, obtive uma sólida capacitação abrangendo áreas como programação Java e criação web através das linguagens HTML, CSS e PHP. Através dessa formação técnica, estabeleci uma base robusta que me permitiu compreender com profundidade as intricadas nuances da tecnologia e sua aplicabilidade no mundo real.'
   }
 ]
 </script>
